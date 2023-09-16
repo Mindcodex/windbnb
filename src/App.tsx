@@ -28,7 +28,7 @@ const App = () => {
       </main>
       <footer>
         <p className='flex justify-center text-[#828282]'>
-          created by <span className='font-bold'>{'\b diloes'}</span> - devChallenges.io
+          created by <span className='font-bold'>{'\b Mindcodex'}</span> - devChallenges.io
         </p>
       </footer>
     </div>
